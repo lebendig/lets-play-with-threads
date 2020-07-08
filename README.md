@@ -1,2 +1,2 @@
-# new-project-test
-This ist just a test, to start using git and github
+# lets-play-with-threads
+A small thread program, where we can play with two thred at the same time.
